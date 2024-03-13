@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/models/GroupChatMessage.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/GroupChatMessage.ts#L58)
+[src/models/GroupChatMessage.ts:61](https://github.com/PalisadoesFoundation/talawa-api/blob/c766886/src/models/GroupChatMessage.ts#L61)
